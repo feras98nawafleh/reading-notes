@@ -10,11 +10,11 @@ Mostly, Markdown is just regular text with a few non-alphabetic characters throw
 ## this is a smaller heading <h2> in HTML
   
   
- **Github Pages**
+ **Github Pages:**
   it's basically a free way to host your web pages, an easy way to share your projects, portfolio and resume, usually the link is  
   https://your-account.github.io
   
  
-  **Markdown syntax**
+  **Markdown syntax:**
   writing markdown is as easy as it could be, shorter and easier syntax, you could always go to the [official docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   
