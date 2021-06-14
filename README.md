@@ -18,5 +18,7 @@ it's your own responsibility to achieve mindset growth
 4. attaching links by: [Markdown Guide](https://www.markdownguide.org).
 5. attaching photos by: ![alternative text](/folder/image/imagename.png)
 
-*a brief intro about mu self*
+*a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
+
+please check my github account [feras nawafleh's github](https://github.com/feras98nawafleh/reading-notes)
