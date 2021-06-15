@@ -9,7 +9,6 @@ it's your own responsibility to achieve mindset growth
 3. Accepting new challenges
 4. Sticking to more successful people
 5. Believing in yourself
-6. Test
 
 ## markdown features
 
