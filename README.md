@@ -2,8 +2,8 @@
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
-| read01.md      | Mindset Growth | [read01.md](https://github.com/feras98nawafleh/reading-notes/blob/main/read01.md) |
-| read02.md      | what is markdown      |   [read02.md](https://github.com/feras98nawafleh/reading-notes/blob/main/read02.md) |
+| read01.md      | Mindset Growth | [read01.md](https://feras98nawafleh.github.io/reading-notes/read01) |
+| read02.md      | what is markdown      |   [read02.md](https://feras98nawafleh.github.io/reading-notes/read02) |
 | .replit | replit configurations | [.replit](https://github.com/feras98nawafleh/reading-notes/blob/main/.replit) |
 
 
