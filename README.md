@@ -1,4 +1,6 @@
-# Table of Contents for 102
+# this repo is created for me to practice front-end development, as it's the connection with the instructors to view my work progress 
+
+## Table of Contents for 102
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
@@ -10,7 +12,7 @@
 | .read06 | CSS | [read06.md](https://feras98nawafleh.github.io/reading-notes/102/read06) |
 | .read07 | JS functions | [read07.md](https://feras98nawafleh.github.io/reading-notes/102/read07) |
 
-# Table of Contents for 201
+## Table of Contents for 201
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
