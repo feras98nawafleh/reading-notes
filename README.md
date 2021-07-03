@@ -14,11 +14,11 @@
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
-| class01.md     | Mindset & MD | [class01.md](https://feras98nawafleh.github.io/reading-notes/201/class01) |
-| class02.md      | what is Git      |   [class02.md](https://feras98nawafleh.github.io/reading-notes/201/class02) |
-| class03.md | HTML | [class03.md](https://feras98nawafleh.github.io/reading-notes/201/class03) |
-| class04.md | JS | [class04.md](https://feras98nawafleh.github.io/reading-notes/201/class04) |
-| class05.md | more about JS | [class05.md](https://feras98nawafleh.github.io/reading-notes/201/class05)
+| class01.md     | HTML and CSS | [class01.md](https://feras98nawafleh.github.io/reading-notes/201/class01) |
+| class02.md      |       |   [class02.md](https://feras98nawafleh.github.io/reading-notes/201/class02) |
+| class03.md |  | [class03.md](https://feras98nawafleh.github.io/reading-notes/201/class03) |
+| class04.md |  | [class04.md](https://feras98nawafleh.github.io/reading-notes/201/class04) |
+| class05.md |  | [class05.md](https://feras98nawafleh.github.io/reading-notes/201/class05)
 
 
 *a brief intro about mu self*  
