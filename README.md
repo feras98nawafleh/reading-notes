@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of Contents for 102
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
@@ -9,6 +9,17 @@
 | .read05 | more about JS | [read05.md](https://feras98nawafleh.github.io/reading-notes/102/read05) |
 | .read06 | CSS | [read06.md](https://feras98nawafleh.github.io/reading-notes/102/read06) |
 | .read07 | JS functions | [read07.md](https://feras98nawafleh.github.io/reading-notes/102/read07) |
+
+# Table of Contents for 201
+
+| File          |   Content     | Link  |
+| ------------- |:-------------:| -----:|
+| class01.md     | Mindset & MD | [class01.md](https://feras98nawafleh.github.io/reading-notes/201/class01) |
+| class02.md      | what is Git      |   [class02.md](https://feras98nawafleh.github.io/reading-notes/201/class02) |
+| class03.md | HTML | [class03.md](https://feras98nawafleh.github.io/reading-notes/201/class03) |
+| class04.md | JS | [class04.md](https://feras98nawafleh.github.io/reading-notes/201/class04) |
+| class05.md | more about JS | [class05.md](https://feras98nawafleh.github.io/reading-notes/201/class05)
+
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
