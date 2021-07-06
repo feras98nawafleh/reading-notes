@@ -18,8 +18,8 @@
 | ------------- |:-------------:| -----:|
 | class01.md     | HTML and CSS | [class01.md](https://feras98nawafleh.github.io/reading-notes/201/class01) |
 | class02.md      |  more of html and css     |   [class02.md](https://feras98nawafleh.github.io/reading-notes/201/class02) |
-| class03.md | html lists css box model and js flow control  | [class03.md](https://feras98nawafleh.github.io/reading-notes/201/class03) |
-| class04.md |  | [class04.md](https://feras98nawafleh.github.io/reading-notes/201/class04) |
+| class03.md | html lists css box model and JS flow control  | [class03.md](https://feras98nawafleh.github.io/reading-notes/201/class03) |
+| class04.md |HTML links, CSS layout and JS functions| [class04.md](https://feras98nawafleh.github.io/reading-notes/201/class04) |
 | class05.md |  | [class05.md](https://feras98nawafleh.github.io/reading-notes/201/class05)
 
 
