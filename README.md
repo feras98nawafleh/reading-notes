@@ -21,6 +21,7 @@
 | class03.md | html lists css box model and JS flow control  | [class03.md](https://feras98nawafleh.github.io/reading-notes/201/class03) |
 | class04.md |HTML links, CSS layout and JS functions| [class04.md](https://feras98nawafleh.github.io/reading-notes/201/class04) |
 | class05.md | HTML img and CSS colors and text | [class05.md](https://feras98nawafleh.github.io/reading-notes/201/class05)
+| class06.md |Problem Domain, Objects, and the DOM| [class06.md](https://feras98nawafleh.github.io/reading-notes/201/class06)
 
 
 *a brief intro about mu self*  
