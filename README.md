@@ -23,6 +23,7 @@
 | class05.md | HTML img and CSS colors and text | [class05.md](https://feras98nawafleh.github.io/reading-notes/201/class05)
 | class06.md |Problem Domain, Objects, and the DOM| [class06.md](https://feras98nawafleh.github.io/reading-notes/201/class06)
 | class07.md |HTML Tables and OOP| [class07.md](https://feras98nawafleh.github.io/reading-notes/201/class07)
+| class08.md |more css layout| [class08.md](https://feras98nawafleh.github.io/reading-notes/201/class08)
 
 
 *a brief intro about mu self*  
