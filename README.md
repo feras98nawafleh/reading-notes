@@ -25,6 +25,7 @@
 | class07.md |HTML Tables and OOP| [class07.md](https://feras98nawafleh.github.io/reading-notes/201/class07)
 | class08.md |more css layout| [class08.md](https://feras98nawafleh.github.io/reading-notes/201/class08)
 | class09.md |Forms and JS events| [class09.md](https://feras98nawafleh.github.io/reading-notes/201/class09)
+| class10.md |JS Debugging| [class10.md](https://feras98nawafleh.github.io/reading-notes/201/class10)
 
 
 *a brief intro about mu self*  
