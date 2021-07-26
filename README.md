@@ -27,6 +27,8 @@
 | class09.md |Forms and JS events| [class09.md](https://feras98nawafleh.github.io/reading-notes/201/class09)
 | class10.md |JS Debugging| [class10.md](https://feras98nawafleh.github.io/reading-notes/201/class10)
 | class11.md |images, video and audio| [class11.md](https://feras98nawafleh.github.io/reading-notes/201/class11)
+| class12.md |chart.js, canvas| [class12.md](https://feras98nawafleh.github.io/reading-notes/201/class12)
+
 
 
 *a brief intro about mu self*  
