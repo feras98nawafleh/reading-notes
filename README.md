@@ -12,7 +12,7 @@
 | .read06 | CSS | [read06.md](https://feras98nawafleh.github.io/reading-notes/102/read06) |
 | .read07 | JS functions | [read07.md](https://feras98nawafleh.github.io/reading-notes/102/read07) |
 
-## Table of Contents for 201
+## Table of Contents for 301
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
@@ -36,7 +36,7 @@
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
-| class01.md    | components and props  | [class01.md](https://feras98nawafleh.github.io/reading-notes/301/class01)
+| class01.md     | components and props in React | [class01.md](https://feras98nawafleh.github.io/reading-notes/301/class01) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
