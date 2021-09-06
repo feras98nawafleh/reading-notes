@@ -37,7 +37,7 @@
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
 | class01.md     | components and props in React | [class01.md](https://feras98nawafleh.github.io/reading-notes/301/class01) |
-| class02.md     | components lifecycle in React | [class01.md](https://feras98nawafleh.github.io/reading-notes/301/class02) |
+| class02.md     | components lifecycle in React | [class02.md](https://feras98nawafleh.github.io/reading-notes/301/class02) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
