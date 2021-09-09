@@ -40,6 +40,7 @@
 | class02.md     | components lifecycle in React | [class02.md](https://feras98nawafleh.github.io/reading-notes/301/class02) |
 | class03.md     | Passing Functions as Props | [class03.md](https://feras98nawafleh.github.io/reading-notes/301/class03) |
 | class04.md     | Conditional Ternary Operator | [class04.md](https://feras98nawafleh.github.io/reading-notes/301/class04) |
+| class05.md     | Thinking in React | [class05.md](https://feras98nawafleh.github.io/reading-notes/301/class05) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
