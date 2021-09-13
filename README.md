@@ -43,6 +43,7 @@
 | class05.md     | Thinking in React | [class05.md](https://feras98nawafleh.github.io/reading-notes/301/class05) |
 | class06.md     | Intro to Node.js | [class06.md](https://feras98nawafleh.github.io/reading-notes/301/class06) |
 | class07.md     | Rest APIs | [class07.md](https://feras98nawafleh.github.io/reading-notes/301/class07) |
+| class08.md     | Web APIs best practices | [class08.md](https://feras98nawafleh.github.io/reading-notes/301/class08) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
