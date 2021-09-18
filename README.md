@@ -46,6 +46,7 @@
 | class08.md     | Web APIs best practices | [class08.md](https://feras98nawafleh.github.io/reading-notes/301/class08) |
 | class09.md     | Functional Programming | [class09.md](https://feras98nawafleh.github.io/reading-notes/301/class09) |
 | class10.md     | JavaScript Call Stack | [class10.md](https://feras98nawafleh.github.io/reading-notes/301/class10) |
+| class11.md     | SQL vs NoSQL | [class11.md](https://feras98nawafleh.github.io/reading-notes/301/class11) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
