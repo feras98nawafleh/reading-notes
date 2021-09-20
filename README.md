@@ -48,6 +48,7 @@
 | class10.md     | JavaScript Call Stack | [class10.md](https://feras98nawafleh.github.io/reading-notes/301/class10) |
 | class11.md     | SQL vs NoSQL | [class11.md](https://feras98nawafleh.github.io/reading-notes/301/class11) |
 | class12.md     | CRUD | [class12.md](https://feras98nawafleh.github.io/reading-notes/301/class12) |
+| class13.md     | Diversity in Tech | [class13.md](https://feras98nawafleh.github.io/reading-notes/301/class13) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
