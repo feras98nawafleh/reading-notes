@@ -1,6 +1,13 @@
-# this repo is created for me to practice front-end development, as it's the connection with the instructors to view my work progress 
+# Reading Notes
 
-## Table of Contents for 102
+## this repo is created for me to practice front-end development, as it's the connection with the instructors to view my work progress 
+
+* Code 102 - Intro to Software Development
+* Code 201 - Foundations of Software Development
+* Code 301 - Intermediate Software Developmen
+* Code 401 - Advanced Software Development
+
+### Table of Contents for 102
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
@@ -12,7 +19,7 @@
 | .read06 | CSS | [read06.md](https://feras98nawafleh.github.io/reading-notes/102/read06) |
 | .read07 | JS functions | [read07.md](https://feras98nawafleh.github.io/reading-notes/102/read07) |
 
-## Table of Contents for 301
+### Table of Contents for 201
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
@@ -32,7 +39,7 @@
 | class14a.md |CSS transition/transform| [class14.md](https://feras98nawafleh.github.io/reading-notes/201/class14a) 
 | class14b.md |additional resources| [class14b.md](https://feras98nawafleh.github.io/reading-notes/201/class14b) 
 
-## Table of Contents for 301
+### Table of Contents for 301
 
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
@@ -50,6 +57,8 @@
 | class12.md     | CRUD | [class12.md](https://feras98nawafleh.github.io/reading-notes/301/class12) |
 | class13.md     | Diversity in Tech | [class13.md](https://feras98nawafleh.github.io/reading-notes/301/class13) |
 | class14.md     | What is OAuth? | [class14.md](https://feras98nawafleh.github.io/reading-notes/301/class14) |
+
+### Table of Contents for 401
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
