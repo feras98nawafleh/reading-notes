@@ -1,11 +1,8 @@
 # Pain vs. Suffering
-As you experience pain, seek the remedy! Ask questions that bridge the gap between what you know and what you need to be able to do. Research! Build your resources and your community! Don’t experience the pain in silence—that slides toward needless pain and the realm of suffering.
+everyone is expected to face pain in some level of their lives, if that happened to you, ask for remedy! Ask questions that may be the answer to all your thoughts. search more! gatther informations and knowledge you need.
 
-Find the common thread that makes the pain worthwhile, that puts the pain into perspective. You’re here because you chose to invest in a different life. A better life.
-
-You’re in this class so that you can become not just a competent Python developer, but a spectacular craftsman of software with Python as your tool. The pain that you feel? Those are the callouses that you build while learning to use that tool.
-
-It’s not easy, nor is it common. This is why such skilled people are highly-valued in the industry. You are building your value. You are experiencing the pain of growth. Live it, love it, and take it forward into your future as a full-stack software developer capable of meeting all challenges with a clear head and strong heart.
+seek the solution to all your problems, that makes the pain power.
+you, after this course is expected to master python and use it in many fields,
 
 # Big O
 Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm.
@@ -58,3 +55,19 @@ O(2^N) denotes an algorithm whose growth doubles with each addition to the input
     return Fibonacci(number - 2) + Fibonacci(number - 1); 
 }
 ```
+
+# Python names and values
+name assignment to value:
+```x = 25
+print(x) 
+# output: 25
+```
+***NOTICE THAT NAMES ARE REASSIGNED INDEPENTlY***
+reference can be more than just a name
+```names = [1,2 3, 4]
+x = names[2]
+# x = 3
+```
+***NOTICE THAT FUNCTIONS ARGUMENTS ARE ASSIGNMENTS***
+``` # python suppports tha call by value/reference just like other languaes```
+
