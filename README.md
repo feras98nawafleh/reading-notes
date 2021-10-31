@@ -60,6 +60,10 @@
 
 ### Table of Contents for 401
 
+| File          |   Content     | Link  |
+| ------------- |:-------------:| -----:|
+| class01.md     | Pain suffering, Big O notation| [class01.md](https://feras98nawafleh.github.io/reading-notes/401/class01) |
+
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
 
