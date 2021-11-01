@@ -63,7 +63,8 @@
 | File          |   Content     | Link  |
 | ------------- |:-------------:| -----:|
 | class01.md     | Pain suffering, Big O notation| [class01.md](https://feras98nawafleh.github.io/reading-notes/401/class01) |
-| class01.md     | TDD, name equals main, recursion| [class02.md](https://feras98nawafleh.github.io/reading-notes/401/class02) |
+| class02.md     | TDD, name equals main, recursion| [class02.md](https://feras98nawafleh.github.io/reading-notes/401/class02) |
+| class03.md     | Read/Write files in Python, handling python exceptions| [class03.md](https://feras98nawafleh.github.io/reading-notes/401/class03) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
