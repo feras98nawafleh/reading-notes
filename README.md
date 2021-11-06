@@ -67,6 +67,7 @@
 | class03.md     | Read/Write files in Python, handling python exceptions| [class03.md](https://feras98nawafleh.github.io/reading-notes/401/class03) |
 | class04.md     | Python Classes and Objects, Recursion in Python| [class04.md](https://feras98nawafleh.github.io/reading-notes/401/class04) |
 | class05.md     | Linked List and Big O notation| [class05.md](https://feras98nawafleh.github.io/reading-notes/401/class05) |
+| class06.md     | Random Module, Risk Analysis, Test Covergae| [class06.md](https://feras98nawafleh.github.io/reading-notes/401/class06) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
