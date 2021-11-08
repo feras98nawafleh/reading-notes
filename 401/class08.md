@@ -49,3 +49,21 @@ letters = [ name[0] for name in authors ]
 print(letters)
 # output: ['E', 'L', 'F', 'T', 'E', 'S']
 ```
+# Python Decorators
+A decorator in Python is a function that takes another function as its argument, and returns yet another function. Decorators can be extremely useful as they allow the extension of an existing function, without any modification to the original function source code.
+```python
+def decorator_list(fnc):
+    def inner(list_of_tuples):
+        return [fnc(val[0], val[1]) for val in list_of_tuples]
+    return inner
+
+
+@decorator_list
+def add_together(a, b):
+    return a + b
+
+
+print(add_together([(1, 3), (3, 17), (5, 5), (6, 7)]))
+
+# add_together = decorator_list(add_together)
+```
