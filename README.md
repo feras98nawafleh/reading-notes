@@ -70,6 +70,7 @@
 | class06.md     | Random Module, Risk Analysis, Test Covergae| [class06.md](https://feras98nawafleh.github.io/reading-notes/401/class06) |
 | class07.md     | Python Scope | [class07.md](https://feras98nawafleh.github.io/reading-notes/401/class07) |
 | class08.md     | List Comprehensions, Decorators | [class08.md](https://feras98nawafleh.github.io/reading-notes/401/class08) |
+| class09.md     | Dunder Methods, Statistics - Probability | [class09.md](https://feras98nawafleh.github.io/reading-notes/401/class09) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
