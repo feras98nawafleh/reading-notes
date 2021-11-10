@@ -71,6 +71,7 @@
 | class07.md     | Python Scope | [class07.md](https://feras98nawafleh.github.io/reading-notes/401/class07) |
 | class08.md     | List Comprehensions, Decorators | [class08.md](https://feras98nawafleh.github.io/reading-notes/401/class08) |
 | class09.md     | Dunder Methods, Statistics - Probability | [class09.md](https://feras98nawafleh.github.io/reading-notes/401/class09) |
+| class10.md     | Stacks and Queues | [class10.md](https://feras98nawafleh.github.io/reading-notes/401/class10) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
