@@ -73,6 +73,7 @@
 | class09.md     | Dunder Methods, Statistics - Probability | [class09.md](https://feras98nawafleh.github.io/reading-notes/401/class09) |
 | class10.md     | Stacks and Queues | [class10.md](https://feras98nawafleh.github.io/reading-notes/401/class10) |
 | class11.md     | Jupiter Lab and NumPy | [class11.md](https://feras98nawafleh.github.io/reading-notes/401/class11) |
+| class12.md     | Data Science with Pandas | [class12.md](https://feras98nawafleh.github.io/reading-notes/401/class12) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
