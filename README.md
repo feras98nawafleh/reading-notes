@@ -74,6 +74,7 @@
 | class10.md     | Stacks and Queues | [class10.md](https://feras98nawafleh.github.io/reading-notes/401/class10) |
 | class11.md     | Jupiter Lab and NumPy | [class11.md](https://feras98nawafleh.github.io/reading-notes/401/class11) |
 | class12.md     | Data Science with Pandas | [class12.md](https://feras98nawafleh.github.io/reading-notes/401/class12) |
+| class13.md     | Linear Regression | [class13.md](https://feras98nawafleh.github.io/reading-notes/401/class13) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
