@@ -48,3 +48,4 @@ model.fit(x, y)
 >>> print('predicted response:', y_pred, sep='\n')
 predicted response:
 [ 8.33333333 13.73333333 19.13333333 24.53333333 29.93333333 35.33333333]
+```
