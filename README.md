@@ -4,7 +4,7 @@
 
 * Code 102 - Intro to Software Development
 * Code 201 - Foundations of Software Development
-* Code 301 - Intermediate Software Developmen
+* Code 301 - Intermediate Software Development
 * Code 401 - Advanced Software Development
 
 ### Table of Contents for 102
@@ -76,6 +76,7 @@
 | class12.md     | Data Science with Pandas | [class12.md](https://feras98nawafleh.github.io/reading-notes/401/class12) |
 | class13.md     | Linear Regression | [class13.md](https://feras98nawafleh.github.io/reading-notes/401/class13) |
 | class14.md     | MatPlot | [class14.md](https://feras98nawafleh.github.io/reading-notes/401/class14) |
+| class15.md     | Trees | [class15.md](https://feras98nawafleh.github.io/reading-notes/401/class15) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
