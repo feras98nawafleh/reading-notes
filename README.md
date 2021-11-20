@@ -77,6 +77,7 @@
 | class13.md     | Linear Regression | [class13.md](https://feras98nawafleh.github.io/reading-notes/401/class13) |
 | class14.md     | MatPlot | [class14.md](https://feras98nawafleh.github.io/reading-notes/401/class14) |
 | class15.md     | Trees | [class15.md](https://feras98nawafleh.github.io/reading-notes/401/class15) |
+| class16.md     | Machine Learning | [class16.md](https://feras98nawafleh.github.io/reading-notes/401/class16) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
