@@ -78,6 +78,7 @@
 | class14.md     | MatPlot | [class14.md](https://feras98nawafleh.github.io/reading-notes/401/class14) |
 | class15.md     | Trees | [class15.md](https://feras98nawafleh.github.io/reading-notes/401/class15) |
 | class16.md     | Machine Learning | [class16.md](https://feras98nawafleh.github.io/reading-notes/401/class16) |
+| class17.md     | Web Scraping | [class17.md](https://feras98nawafleh.github.io/reading-notes/401/class17) |
 
 *a brief intro about mu self*  
 Feras Nawafleh, 22 years old, a passionate software developer that graduated from the university of Jordan with a computer science degree
