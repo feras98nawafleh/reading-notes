@@ -83,6 +83,7 @@
 | class18Optional.md     | Cryptography, Encryption and Decryption and other useful material | [class18Optional.md](https://feras98nawafleh.github.io/reading-notes/401/class18Optional) |
 | class19.md     | Intro to Django | [class19.md](https://feras98nawafleh.github.io/reading-notes/401/class19) |
 | class20.md     | Django Admin and Models | [class20.md](https://feras98nawafleh.github.io/reading-notes/401/class20) |
+| class28.md     | Django Forms | [class28.md](https://feras98nawafleh.github.io/reading-notes/401/class28) |
 
 
 *a brief intro about mu self*  
