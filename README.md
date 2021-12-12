@@ -86,6 +86,7 @@
 | class28.md     | Django Forms | [class28.md](https://feras98nawafleh.github.io/reading-notes/401/class28) |
 | class29.md     | Django Custom User Model | [class29.md](https://feras98nawafleh.github.io/reading-notes/401/class29) |
 | class30.md     | Hash Tables | [class30.md](https://feras98nawafleh.github.io/reading-notes/401/class30) |
+| class31.md     | Docker and Django APIs | [class31.md](https://feras98nawafleh.github.io/reading-notes/401/class31) |
 
 
 *a brief intro about mu self*  
