@@ -88,6 +88,7 @@
 | class30.md     | Hash Tables | [class30.md](https://feras98nawafleh.github.io/reading-notes/401/class30) |
 | class31.md     | Docker and Django APIs | [class31.md](https://feras98nawafleh.github.io/reading-notes/401/class31) |
 | class32.md     | Django REST APIs Permissions | [class32.md](https://feras98nawafleh.github.io/reading-notes/401/class32) |
+| class33.md     | JSON Web Tokens | [class33.md](https://feras98nawafleh.github.io/reading-notes/401/class33) |
 
 
 *a brief intro about mu self*  
