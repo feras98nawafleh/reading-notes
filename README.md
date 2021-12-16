@@ -90,6 +90,7 @@
 | class32.md     | Django REST APIs Permissions | [class32.md](https://feras98nawafleh.github.io/reading-notes/401/class32) |
 | class33.md     | JSON Web Tokens | [class33.md](https://feras98nawafleh.github.io/reading-notes/401/class33) |
 | class34.md     | Django Best Practices and SSH | [class34.md](https://feras98nawafleh.github.io/reading-notes/401/class34) |
+| class35.md     | Graphs | [class35.md](https://feras98nawafleh.github.io/reading-notes/401/class35) |
 
 
 *a brief intro about mu self*  
