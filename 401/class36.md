@@ -13,4 +13,3 @@
 5. 'Sit Down, be humble', ***Kendrick Lamar***
 6. Be prepared and ready well
 7. Always give it a second look and review your work/code
-8.  
