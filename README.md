@@ -93,6 +93,7 @@
 | class35.md     | Graphs | [class35.md](https://feras98nawafleh.github.io/reading-notes/401/class35) |
 | class36.md     | DSA Review and Interview Tips | [class36.md](https://feras98nawafleh.github.io/reading-notes/401/class36) |
 | class37.md     | React | [class37.md](https://feras98nawafleh.github.io/reading-notes/401/class37) |
+| class38.md     | More React | [class38.md](https://feras98nawafleh.github.io/reading-notes/401/class38) |
 
 
 *a brief intro about mu self*  
